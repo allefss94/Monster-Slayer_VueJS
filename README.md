@@ -17,6 +17,6 @@ Framework Front End -
 
 *Boas práticas de code Front End, focado em desempenho com o aproveitamento de código.
 
-*Utilização de Computed property e Watch do Vue.js
+*Utilização de recursos como o Computed property e Watch do Vue.js
 
 *Escrita de CSS puro.
