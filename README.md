@@ -7,11 +7,15 @@ Você vai fazer ataques simples, especiais, usar o recurso de cura ou desistir? 
 
 Framework Front End -
 *Vue.js
+
 *HTML5
+
 *CSS3
 
 # Desafios de implementação:
 
 *Boas práticas de code Front End, focado em desempenho com o aproveitamento de código.
+
 *Utilização de Computed property e Watch do Vue.js
+
 *Escrita de CSS puro.
