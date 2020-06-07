@@ -6,6 +6,7 @@ Você vai fazer ataques simples, especiais, usar o recurso de cura ou desistir? 
 # Tecnologias Utilizadas:
 
 Framework Front End -
+
 *Vue.js
 
 *HTML5
